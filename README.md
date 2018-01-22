@@ -21,10 +21,8 @@
 These instructions will get you a copy of the project up and running on your local machine for development.
 
 ### Prerequisites
-Ensure that you have a copy of the development code.  Currently, this is only available via email.  To get a copy of it, please email the creator.
 Make sure you have npm installed.
 [Install NPM](https://www.npmjs.com/get-npm)
-Navigate to the folder you extracted the zip files from
 
 ## Build Setup
 
