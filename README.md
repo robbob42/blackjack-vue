@@ -1,5 +1,5 @@
 # Rob Olsen's Blackjack JS Project
-####This is Rob Olsen's technical assesment for Next Century Corporation.  It is a simple game that follows the basic rules of Blackjack:
+###This is Rob Olsen's technical assesment for Next Century Corporation.  It is a simple game that follows the basic rules of Blackjack:
 * There will be only 2 players – a “human” player and a dealer
 * The players are each dealt 2 cards to start the hand
 * The player can choose to hit one or more times, or stand with any amount
